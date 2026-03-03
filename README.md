@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ana Luíza Marum
 
-<!--
-**analuizamarumm/analuizamarumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CFO & Head de Operações | Finanças + Dados + Automação
 
-Here are some ideas to get you started:
+Diretora Financeira com foco na intersecção entre estratégia financeira,
+análise de dados e automação de processos.
+Construo estruturas que transformam números em decisões.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 O que faço
+
+- FP&A: orçamento por centro de custo, DRE e Fluxo de Caixa
+- Dashboards estratégicos com Power BI para monitoramento de KPIs
+- Automação de workflows financeiros e operacionais
+- Análise de ROI, CAC, ROAS e Margem de Contribuição
+
+## 🏆 Resultado que me orgulho
+
+↓ 37,4% nos custos variáveis em 2025
+via renegociação com fornecedores + otimização de processos
+
+## 🛠️ Stack
+
+**Dados & BI:** Python · SQL · Power BI · Excel Avançado · Google Sheets
+**Processos:** Pipefy · Google Workspace
+**Formação atual:** Análise de Dados e TI — Xperiun (2026)
+
+---
+
+💼 linkedin.com/in/analuizamarum
+📩 analuizamarumm@gmail.com
