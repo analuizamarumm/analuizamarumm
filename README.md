@@ -1,32 +1,57 @@
+<div align="center">
+
 # Ana Luíza Marum
+### Finanças · Dados · Automação
 
-### CFO & Head de Operações | Finanças + Dados + Automação
+*Transformo dados financeiros em decisões estratégicas.*
 
-Diretora Financeira com foco na intersecção entre estratégia financeira,
-análise de dados e automação de processos.
-Construo estruturas que transformam números em decisões.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-analuizamarum-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/analuizamarum)
+[![Gmail](https://img.shields.io/badge/Gmail-analuizamarumm-D14836?style=flat&logo=gmail&logoColor=white)](mailto:analuizamarumm@gmail.com)
+
+</div>
 
 ---
 
-## 📊 O que faço
+## 👩‍💻 Sobre mim
 
-- FP&A: orçamento por centro de custo, DRE e Fluxo de Caixa
-- Dashboards estratégicos com Power BI para monitoramento de KPIs
-- Automação de workflows financeiros e operacionais
-- Análise de ROI, CAC, ROAS e Margem de Contribuição
+Sou CFO com perfil analítico — uso **Python, SQL e Power BI** para extrair
+inteligência dos dados financeiros e automatizar o que não precisa de humano.
 
-## 🏆 Resultado que me orgulho
+Minha stack favorita é a intersecção entre **finanças corporativas e dados**:
+construo modelos, dashboards e automações que fazem os números contarem
+a história certa para quem decide.
 
-↓ 37,4% nos custos variáveis em 2025
-via renegociação com fornecedores + otimização de processos
+Atualmente em formação em **Análise de Dados e TI** com foco em
+SQL, Python e modelagem preditiva.
+
+---
 
 ## 🛠️ Stack
 
-**Dados & BI:** Python · SQL · Power BI · Excel Avançado · Google Sheets
-**Processos:** Pipefy · Google Workspace
-**Formação atual:** Análise de Dados e TI — Xperiun (2026)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Pipefy](https://img.shields.io/badge/Pipefy-4A90D9?style=flat)
 
 ---
 
-💼 linkedin.com/in/analuizamarum
-📩 analuizamarumm@gmail.com
+## 📊 Resultado em número
+
+> **↓ 37,4% nos custos variáveis em 2025**
+> via análise de dados + otimização de processos financeiros
+
+---
+
+## 🌱 Atualmente estudando
+
+- Python para análise e automação financeira
+- SQL para extração e modelagem de dados
+- Modelagem preditiva aplicada a finanças
+
+---
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=analuizamarumm&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
